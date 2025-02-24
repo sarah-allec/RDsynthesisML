@@ -1,0 +1,8 @@
+scikit-learn==1.5.1
+matplotlib==3.9.2
+seaborn==0.13.2
+pandas==2.2.2
+numpy==1.26.4
+gpax==0.1.8
+ipympl==0.9.4
+git+https://github.com/ziatdinovmax/NeuroBayes@0.0.10
